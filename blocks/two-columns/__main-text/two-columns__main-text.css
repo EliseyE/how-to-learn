@@ -1,0 +1,11 @@
+.two-columns__main-text {
+  margin: 0;
+  padding: 0;
+  width: 80%;
+  min-width: 784px;
+  min-height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 30px;
+}
